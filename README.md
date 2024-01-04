@@ -10,6 +10,10 @@ Pengembang aplikasi mobile Github Finder dari Kelompok-6 Kelas-A Teknik Informat
 
 Github Finder adalah aplikasi mobile yang memudahkan Anda untuk mencari dan menemukan user di GitHub. Aplikasi ini memiliki fitur-fitur yang lengkap dan mudah digunakan, sehingga cocok untuk Anda yang ingin mencari user di GitHub, baik untuk keperluan pribadi maupun profesional.
 
+- Aplikasi ini dapat diunduh pada tautan berikut: [https://play.google.com/store/apps/details?id=com.group.githubfinder](https://play.google.com/store/apps/details?id=com.group.githubfinder)
+- Pitch Deck: [Pitch Deck](https://drive.google.com/drive/u/1/folders/1PzooccJfiXgk_E0ohUE6EqfFI2tX28r7)
+- Youtube: [Demo](https://youtu.be/mwdCaC8QY8E)
+
 ## Home
 ![Home](screenshoot-apk/gf-home.jpeg)
 
